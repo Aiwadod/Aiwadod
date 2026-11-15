@@ -23,9 +23,11 @@ I'm an Artificial Intelligence student based in Jeddah, Saudi Arabia. I work whe
 
 | Project | What it is | Links |
 |---|---|---|
+| **[EEG Seizure Detection](https://github.com/Aiwadod/eeg-seizure-detection-xgboost)** | Detects epileptic seizures from EEG signals with XGBoost and 24 engineered features: **98.4% accuracy, 0.992 ROC-AUC**. Published as a co-authored research paper. | [Paper](https://drive.google.com/file/d/1pBtBdAeq2eHJF2Bp_a6QPPbgH1bbZ1l8/view) |
+| **[Movie Recommender (BPR)](https://github.com/Aiwadod/movie-recommender-bpr)** | Matrix Factorization recommender built from scratch in NumPy on MovieLens-1M; L2 regularization improved NDCG@10 by **38%**. | — |
 | **[Waey · وعي](https://github.com/Aiwadod/waey)** | AI-powered financial-awareness web app for Saudi university students, built at the **Amad 2026 Hackathon** (Tuwaiq Academy × Alinma Bank). I led the product concept and UI/UX design. | [Live demo](https://waey-zeta.vercel.app) |
 | **[Portfolio](https://github.com/Aiwadod/wadod-portfolio)** | My bilingual (Arabic/English) portfolio showcasing UI/UX, visual identity, and software projects. | [Live site](https://wadod-portfolio.vercel.app) |
-| **[GDG Eid Cards](https://github.com/Aiwadod/gdgoc-eid-aladha-1447)** | Personalized Eid greeting-card web experience designed for GDG on Campus, University of Jeddah. | — |
+| **[GDG Eid Cards](https://github.com/Aiwadod/gdgoc-eid-aladha-1447)** | Personalized Eid greeting-card web experience designed for GDG on Campus, University of Jeddah. | [Live site](https://gdgoc-eid-aladha-1447.vercel.app) |
 
 ---
 
